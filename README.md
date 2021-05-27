@@ -6,4 +6,4 @@ Background picture credits: https://dunapress.org/2020/02/10/nosso-ultimo-e-sing
 
 
 --
-Esse é meu primeiro projeto, uma página simples de tributo sobre o J.R.R. Tolkien feito com HTML5 e CSS3. 
+Esse é meu primeiro projeto de estudo, uma página simples de tributo sobre o J.R.R. Tolkien feito com HTML5 e CSS3. 
